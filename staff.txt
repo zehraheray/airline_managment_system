@@ -1,0 +1,2 @@
+105;Busra;Ulukus;555
+104;Zehra;Heray;2345678

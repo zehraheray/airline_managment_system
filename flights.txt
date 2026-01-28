@@ -1,0 +1,4 @@
+TK-101;P-737;Boeing737;2026-10-01;10:30;Istanbul;Ankara;Istanbul;Ankara;60
+AJet-06;P-737;Boeing737;2026-04-05;20:00;Ankara;Antalya;Ankara;Antalya;50
+TK-204;P-GENEL;B737;2026-08-01;14:30;Ankara;Paris;Ankara;Paris;75
+TK-101;P-737;Boeing737;2026-11-01;10:30;Istanbul;Ankara;Istanbul;Ankara;60
