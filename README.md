@@ -63,4 +63,6 @@ Zehra HERAY -
 
 Büşra ULUKUŞ -
 
+UML Diyagram
 ![UML Diyagramı](uml_diagram.png)
+
